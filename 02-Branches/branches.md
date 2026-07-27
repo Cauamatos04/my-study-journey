@@ -2,9 +2,7 @@
 
 ## O que é?
 
-Uma branch é uma linha independente de desenvolvimento.
-
-Ela permite criar novas funcionalidades sem alterar a branch principal.
+Uma branca é como um projeto de um arquiteto, antes de ser colocado em pratica, o arquiteto faz o projeto em 3d e espera a aprovação, caso o contrário ele excluí aquela opção, assim  funciona as branchs.
 
 ## Criar uma branch
 
